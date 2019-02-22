@@ -87,7 +87,7 @@ print('Bilangan terbesar adalah ', x)       ## nilai x sebagai bilangan n yang t
 ![github](https://github.com/Marinska/labpy03/blob/master/9.PNG)
 
 
-** Source code program1
+## Source code program1
 * source code beserta penjelasan setiap line order
 ```
 modal = 100000000                                   ## memperkenalkan nilai modal
@@ -111,12 +111,14 @@ print('Total laba adalah: ', untung)                ## menghitung total laba sel
 ```
 
 * Save lembar kerja
+
 ![github](https://github.com/Marinska/labpy03/blob/master/5.PNG)
 
 * Jalankan program
+
 ![github](https://github.com/Marinska/labpy03/blob/master/6.PNG)
 
 ## Terima kasih
-Name : Umar Ibnu Zainal Muttaqin
-NIM : 311810909
-Kelas : TI.18.B.2
+* Name : Umar Ibnu Zainal Muttaqin
+* NIM : 311810909
+* Kelas : TI.18.B.2
